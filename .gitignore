@@ -1,0 +1,22 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA project files
+.idea/
+
+# MacOS-specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Output directories
+/out/
